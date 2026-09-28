@@ -1,0 +1,22 @@
+# Query exports pulled down from BigQuery while investigating
+*.csv
+*.json
+!docs/*.json
+
+# Credentials — never commit these
+*.key
+*-key.json
+service-account*.json
+.env
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python, if anything gets added later
+__pycache__/
+*.py[cod]
+.venv/
+venv/
