@@ -126,3 +126,4 @@ What is deliberately *not* on it — the funnel, delivery times, channel attribu
 
 **Stack:** Google BigQuery · SQL · Looker Studio
 **Data:** `bigquery-public-data.thelook_ecommerce`
+**Repository:** https://github.com/Mylo-sk/northloom-commerce-analytics
